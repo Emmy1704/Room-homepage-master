@@ -33,6 +33,7 @@ header {
 .container {
     width: 375px;
     height: 100%;
+    padding: 20px;
 }
 
 section {
